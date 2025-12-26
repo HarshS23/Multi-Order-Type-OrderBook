@@ -114,3 +114,5 @@ It is **not** production-grade trading software and lacks:
 * Fault tolerance
 
 Disclamier : Do not use in live trading environments!
+# Multi-Order-Type-OrderBook
+An order book used to simulate how hedge funds place, manage, and execute buy and sell orders for equities.
